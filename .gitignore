@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+.venv/
+venv_new/
+env/
+ENV/
+
+# Pruebas y cobertura
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Compilación y empaquetado
+build/
+dist/
+Instalador/
+*.exe
+*.egg-info/
+
+# Variables de entorno y configuración local
+.env
+.env.*
+db_config.json
+*.sqlite3
+*.db
+
+# Logs
+*.log
+app.log
+
+# IDEs y herramientas
+.vscode/
+.antigravity/
+.idea/
+
+# Archivos de entrega comprimidos
+*.zip
+*.tar.gz
