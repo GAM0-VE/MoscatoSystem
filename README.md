@@ -140,7 +140,7 @@ flowchart TD
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/MoscatoSystem.git
+git clone https://github.com/GAM0-VE/MoscatoSystem.git
 cd MoscatoSystem
 ```
 
@@ -253,7 +253,7 @@ MoscatoSystem/
 2. **Compile installer with Inno Setup:**
    Open `instalador.iss` inside Inno Setup Compiler and build the setup wizard. The compiled installer will be saved to `Instalador/Instalar_Moscato.exe`.
 
-> **End Users:** You can download the precompiled Windows installer directly from the **[Releases](https://github.com/YOUR_USERNAME/MoscatoSystem/releases)** section of this repository.
+> **End Users:** You can download the precompiled Windows installer directly from the **[Releases](https://github.com/GAM0-VE/MoscatoSystem/releases)** section of this repository.
 
 ---
 
@@ -268,8 +268,6 @@ This project is open-source and distributed under the **MIT License**. See the [
 **Manuel Castro**  
 *Software Developer | Python & Desktop Systems / Backend*
 
-* **GitHub:** [@manuelcastro](https://github.com/) *(Update with your profile)*
-* **LinkedIn:** [Manuel Castro](https://linkedin.com/) *(Update with your profile)*
+* **GitHub:** [@GAM0-VE](https://github.com/GAM0-VE)
+* **LinkedIn:** [Manuel Castro](https://linkedin.com/) *(Update with your URL)*
 * **Email:** [castellano.manuel@email.com](mailto:castellano.manuel@email.com)
-#   M o s c a t o S y s t e m  
- 
