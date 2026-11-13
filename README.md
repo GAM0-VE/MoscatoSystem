@@ -269,5 +269,6 @@ This project is open-source and distributed under the **MIT License**. See the [
 *Software Developer | Python & Desktop Systems / Backend*
 
 * **GitHub:** [@GAM0-VE](https://github.com/GAM0-VE)
-* **LinkedIn:** [Manuel Castro](https://linkedin.com/) *(Update with your URL)*
-* **Email:** [castellano.manuel@email.com](mailto:castellano.manuel@email.com)
+* **LinkedIn:** [Manuel Castro]([https://linkedin.com/](https://www.linkedin.com/in/manuel-castro-rodriquez-7b2469248)
+* **Email:** [manuelcastror32@gmail.com](manuelcastror32@gmail.com)
+  
