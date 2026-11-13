@@ -268,6 +268,6 @@ Este proyecto está bajo la Licencia **MIT**. Consulte el archivo [LICENSE](LICE
 *Desarrollador de Software | Python & Sistemas de Escritorio / Backend*
 
 * **GitHub:** [@GAM0-VE](https://github.com/GAM0-VE)
-* **LinkedIn:** [Manuel Castro](https://linkedin.com/) *(Actualiza con tu perfil)*
-* **Email:** [castellano.manuel@email.com](mailto:castellano.manuel@email.com)
+* **LinkedIn:** [Manuel Castro](https://www.linkedin.com/in/manuel-castro-rodriquez-7b2469248)
+* **Email:** [manuelcastror32@gmail.com](manuelcastror32@gmail.com)
 
